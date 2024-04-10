@@ -48,7 +48,7 @@ Offers functionalities for data loading, preprocessing, model definition, compil
 ## Conclusions
 
 - Multi-class classification with custom CNNs in TensorFlow provides a versatile and powerful tool for tackling problems that involve categorizing data into multiple classes.
-- Yes the overfitting issue is slove by using the class reblancing as shown in the above graph the traning accuracy is app to 88% where as the testing accuracy is to 83%.
+- Yes the overfitting issue is solved by using the class rebalancing , the traning accuracy is appx to 88% where as the testing accuracy is to 83%.
 
 accuracy: 0.8843
 loss: 0.3000
